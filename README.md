@@ -50,12 +50,16 @@ Visit the project at www.designagencyam.netlify.app to explore more and see how 
 
 
 #### Our Progress section:
-![Screenshot 2024-07-29 230422](https://github.com/user-attachments/assets/1c75d145-b121-4fd2-81ba-608ea1d86a12)
+![Screenshot 2024-07-29 230346](https://github.com/user-attachments/assets/5d663891-c24c-4e38-80f3-23ae427f77c9)
 
 
 #### Our Portfolio section:
-![Screenshot 2024-07-29 230402](https://github.com/user-attachments/assets/8534bd77-9246-40d6-9bf3-4027517e62c4)
+![Screenshot 2024-07-29 230422](https://github.com/user-attachments/assets/1c75d145-b121-4fd2-81ba-608ea1d86a12)
 
 
 #### Testimonials section:
+![Screenshot 2024-07-29 230402](https://github.com/user-attachments/assets/8534bd77-9246-40d6-9bf3-4027517e62c4)
+
+
+#### Footer section:
 ![Screenshot 2024-07-29 230442](https://github.com/user-attachments/assets/1716481c-9db9-4713-8332-ef3117e2cb01)
