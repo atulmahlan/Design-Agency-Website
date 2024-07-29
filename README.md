@@ -2,7 +2,7 @@
 ## Project Description:
 
 Welcome to Design Agency, a state-of-the-art web design project crafted to showcase the creative and professional portfolio of a full-service digital design agency. 
-This project, available at [www.designagencyam.netlify.app](www.designagencyam.netlify.app), is meticulously designed and developed by Atul Mahalan to demonstrate the agency's capabilities in providing comprehensive digital solutions.
+This project, available at www.designagencyam.netlify.app, is meticulously designed and developed by Atul Mahalan to demonstrate the agency's capabilities in providing comprehensive digital solutions.
 
 ### Overview:
 "Design Agency" embodies a modern and clean design aesthetic that emphasizes usability and accessibility. The project is built using the latest web technologies, including HTML5, CSS3, and JavaScript, with additional integrations from Bootstrap for responsive design and Slick Carousel for a seamless and interactive experience. The primary focus of the website is to provide a clear and compelling narrative about the agency's services, showcase their impressive portfolio, and highlight testimonials from satisfied clients.
